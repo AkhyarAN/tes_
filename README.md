@@ -11,6 +11,14 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+Panduan:
+1. jalankan composer install di terminal
+2. file ini tidak ada .env silahkan jalankan perintah: cp .env.example .env
+3. jalankan perintah: php artisan key:generate
+4. database silahkan pakai default laravel dan php artisan migrate
+
+
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
